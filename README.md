@@ -17,6 +17,7 @@
 - Trinh Tat (Houston Methodist Research Institute)
 - Sejal Modha (Theolytics Limited)
 - Jędrzej Kubica (University of Warsaw)
+- Medhat Mahmoud (Human Genome Sequencing Center, Baylor College of Medicine, 1 Baylor Plaza, HoustonTX 77030, USA)
 
 ### [Cite](CITATIONS.md)
 
